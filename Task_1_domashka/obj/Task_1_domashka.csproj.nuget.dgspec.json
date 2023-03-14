@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task2\\Task2.csproj": {}
+    "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_1_domashka\\Task_1_domashka.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task2\\Task2.csproj": {
+    "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_1_domashka\\Task_1_domashka.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task2\\Task2.csproj",
-        "projectName": "Task2",
-        "projectPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task2\\Task2.csproj",
+        "projectUniqueName": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_1_domashka\\Task_1_domashka.csproj",
+        "projectName": "Task_1_domashka",
+        "projectPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_1_domashka\\Task_1_domashka.csproj",
         "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task2\\obj\\",
+        "outputPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_1_domashka\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }
