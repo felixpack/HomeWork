@@ -12,15 +12,3 @@ else if (a > b)
   Console.WriteLine($"Результат: {a} > {b}");
 else
   Console.WriteLine($"Результат: {a} < {b}");
-
-
-
-
-
-
-
-
-
-
-
-
