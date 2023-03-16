@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_1_domashka\\Task_1_domashka.csproj",
-      "projectName": "Task_1_domashka",
-      "projectPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_1_domashka\\Task_1_domashka.csproj",
+      "projectUniqueName": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_10\\Task_10.csproj",
+      "projectName": "Task_10",
+      "projectPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_10\\Task_10.csproj",
       "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_1_domashka\\obj\\",
+      "outputPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
