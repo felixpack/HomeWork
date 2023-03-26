@@ -6,26 +6,25 @@
 // 12821 -> да
 
 // 23432 -> да
-// Console.Clear();
-// Console.Write("Введите пятизначное число: ");
-// int n = Convert.ToInt32(Console.ReadLine());
-// int n1 = n / 10000 % 10;
-// int n2 = n / 1000 % 10;
-// int n3 = n / 100 % 10;
-// int n4 = n /10 % 10;
-// int n5 = n / 10000;
 
-// if (n5 < 1 || n5 > 9)
-// {
-//     Console.Write("Вы ошиблись!\nВведите пятизначное число: ");
-//     n = int.Parse(Console.ReadLine()!);
-// }
-// else if(n1 == n5 && n2 == n4)
-//     Console.WriteLine("Число является палидромом");
-// else
-//     Console.WriteLine("Число не является палидромом");
 
-//не получилось
+Console.Clear();
+Console.Write("Введите пятизначное число: ");
+int n = int.Parse(Console.ReadLine()!);
+while (n < 10000 || n > 99999)
+{
+  Console.Write("Вы ошиблтсь.!\nВведите Число: ");
+  n = int.Parse(Console.ReadLine()!);
+} 
+int n1 = n / 10000;
+int n2 = (n / 1000) % 10; 
+int n4 = (n / 100) / 10;
+int n5 = n % 10;
+if (n1 == n5 && n2 == n4)
+    Console.WriteLine("yes");
+else
+    Console.WriteLine("no");
+
 
 
 

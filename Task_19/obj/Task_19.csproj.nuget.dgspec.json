@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_19\\Task_19.csproj": {}
+    "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_19\\Task_19.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_19\\Task_19.csproj": {
+    "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_19\\Task_19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_19\\Task_19.csproj",
+        "projectUniqueName": "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_19\\Task_19.csproj",
         "projectName": "Task_19",
-        "projectPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_19\\Task_19.csproj",
+        "projectPath": "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_19\\Task_19.csproj",
         "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felix\\Desktop\\семинары\\Семинар 1\\HomeWork\\Task_19\\obj\\",
+        "outputPath": "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_19\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config"
