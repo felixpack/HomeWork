@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_25\\Task_25.csproj": {}
+    "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_29\\Task_29.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_25\\Task_25.csproj": {
+    "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_29\\Task_29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_25\\Task_25.csproj",
-        "projectName": "Task_25",
-        "projectPath": "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_25\\Task_25.csproj",
+        "projectUniqueName": "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_29\\Task_29.csproj",
+        "projectName": "Task_29",
+        "projectPath": "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_29\\Task_29.csproj",
         "packagesPath": "C:\\Users\\felix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_25\\obj\\",
+        "outputPath": "C:\\Users\\felix\\HomeWork\\HomeWork\\Task_29\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felix\\AppData\\Roaming\\NuGet\\NuGet.Config"

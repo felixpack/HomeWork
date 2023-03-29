@@ -4,14 +4,15 @@
 
 // 2, 4 -> 16
 
-// Console.Clear();
-// Console.Write("Введите первое число: ");
-// int n = Convert.ToInt32(Console.ReadLine());
+Console.Clear();
+Console.Write("Введите первое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
 
-// Console.Write("Введите второе число: ");
-// int m = Convert.ToInt32(Console.ReadLine());
-// Console.WriteLine($"{n} ^ m ");
+Console.Write("Введите степень: ");
+int b = Convert.ToInt32(Console.ReadLine());
+int result = 1;  //если значение 0, то результат будет 0
 
 
-// for (int i = 1; i <= n; i++)
-//     Console.WriteLine($"{n} ^ m = {m * m * m}");
+for (int i = 0; i < b; i++)
+    result *= a;
+Console.WriteLine($"результат: {result}");
