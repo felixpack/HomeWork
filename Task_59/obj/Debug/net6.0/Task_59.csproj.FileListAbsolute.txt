@@ -1,0 +1,15 @@
+C:\Users\felix\HomeWork\HomeWork\Task_59\bin\Debug\net6.0\Task_59.exe
+C:\Users\felix\HomeWork\HomeWork\Task_59\bin\Debug\net6.0\Task_59.deps.json
+C:\Users\felix\HomeWork\HomeWork\Task_59\bin\Debug\net6.0\Task_59.runtimeconfig.json
+C:\Users\felix\HomeWork\HomeWork\Task_59\bin\Debug\net6.0\Task_59.dll
+C:\Users\felix\HomeWork\HomeWork\Task_59\bin\Debug\net6.0\Task_59.pdb
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\Task_59.csproj.AssemblyReference.cache
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\Task_59.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\Task_59.AssemblyInfoInputs.cache
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\Task_59.AssemblyInfo.cs
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\Task_59.csproj.CoreCompileInputs.cache
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\Task_59.dll
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\refint\Task_59.dll
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\Task_59.pdb
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\Task_59.genruntimeconfig.cache
+C:\Users\felix\HomeWork\HomeWork\Task_59\obj\Debug\net6.0\ref\Task_59.dll
