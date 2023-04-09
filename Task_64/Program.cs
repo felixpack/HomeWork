@@ -2,3 +2,15 @@
 
 // N = 5 -> "5, 4, 3, 2, 1"
 // N = 8 -> "8, 7, 6, 5, 4, 3, 2, 1"
+string f(int n)
+{
+  if (n == 1) //условие
+    return " 1"; // пробел
+  return $" {n} " + f(n - 1); //вызов функции и прибавление строки
+}
+
+
+Console.Clear();
+Console.Write("Введите число: ");
+int n = int.Parse(Console.ReadLine()!);
+Console.WriteLine(f(n));
